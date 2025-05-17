@@ -2,8 +2,8 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
 
        local Window = MakeWindow({
          Hub = {
-         Title = "KimP Roblox",
-         Animation = "Script Tổng Hợp"
+         Title = "thế anh ( tổng hợp)",
+         Animation = "blox fruits"
          },
         Key = {
         KeySystem = false,
